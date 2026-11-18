@@ -11,6 +11,18 @@ MODE_LABELS = {
     "고정 · fixed": "fixed",
 }
 
+HEIGHT_LABELS = {
+    "high": "상단 · 하이 앵글",
+    "mid": "중간 · 눈높이 / 상체 높이",
+    "low": "하단 · 로우 앵글",
+}
+SHOT_STYLES = {
+    "지정 안 함 · none": "",
+    "카메라 보기 · direct": "The subject looks directly into the camera lens.",
+    "다른 곳 보기 · away": "The subject looks away from the camera toward a point off-frame.",
+    "캔디드 샷 · candid": "Frame the shot like a candid photograph taken unobserved, with the subject unaware of the camera.",
+}
+
 
 def load_presets():
     with PRESET_PATH.open(encoding="utf-8") as file:
@@ -24,6 +36,7 @@ def load_presets():
             not isinstance(preset, dict)
             or type(preset.get("id")) is not int
             or preset["id"] != index
+            or preset.get("height") not in HEIGHT_LABELS
             or any(
                 not isinstance(preset.get(field), str) or not preset[field].strip()
                 for field in ("title", "category", "prompt")
@@ -48,7 +61,15 @@ class CameraComposition100:
         return {
             "required": {
                 "base_prompt": ("STRING", {"default": "", "multiline": True, "placeholder": "기본 인물 · 의상 · 배경 프롬프트"}),
-                "mode": (list(MODE_LABELS), {"tooltip": "랜덤: 시드로 선택 · 순차: 시드 0부터 01~100 반복 · 고정: 프리셋 번호 사용"}),
+                "mode": (list(MODE_LABELS), {
+                    "tooltip": "랜덤: 시드로 선택 · 순차: 시드 0부터 01~100 반복 · 고정: 목록에서 선택한 앵글 사용",
+                    "camera_presets": [
+                        {"id": preset["id"], "title": preset["title"], "group": label}
+                        for height, label in HEIGHT_LABELS.items()
+                        for preset in PRESETS
+                        if preset["height"] == height
+                    ],
+                }),
                 "preset_index": ("INT", {"default": 1, "min": 1, "max": PRESET_COUNT}),
                 "seed": ("INT", {
                     "default": 0,
@@ -57,7 +78,10 @@ class CameraComposition100:
                     "control_after_generate": True,
                 }),
                 "position": (["append", "prepend"],),
-            }
+            },
+            "optional": {
+                "shot_style": (list(SHOT_STYLES), {"tooltip": "앵글과 별도로 시선 또는 캔디드 촬영 연출을 선택합니다."}),
+            },
         }
 
     @classmethod
@@ -66,7 +90,7 @@ class CameraComposition100:
             return f"Unsupported mode: {mode!r}"
         return True
 
-    def compose(self, base_prompt, mode, preset_index, seed, position):
+    def compose(self, base_prompt, mode, preset_index, seed, position, shot_style="지정 안 함 · none"):
         mode = MODE_LABELS.get(mode, mode)
         if mode == "random":
             offset = random.Random(seed).randrange(PRESET_COUNT)
@@ -80,7 +104,7 @@ class CameraComposition100:
             raise ValueError(f"Unsupported mode: {mode!r}")
 
         preset = PRESETS[offset]
-        camera = preset["prompt"]
+        camera = " ".join(filter(None, (preset["prompt"], SHOT_STYLES[shot_style])))
         base = base_prompt.strip()
         if position == "append":
             parts = (base, camera)
