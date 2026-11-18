@@ -52,6 +52,7 @@
 }
 
 .ha-camera-height-row {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
     margin-top: 4px;
 }
 

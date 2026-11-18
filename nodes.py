@@ -54,6 +54,11 @@ def load_presets():
 
 
 PRESETS = load_presets()
+PRESETS_BY_HEIGHT = {
+    "all": PRESETS,
+    **{height: tuple(preset for preset in PRESETS if preset["height"] == height)
+       for height in HEIGHT_LABELS},
+}
 
 
 class CameraComposition100:
@@ -93,6 +98,7 @@ class CameraComposition100:
             "optional": {
                 "shot_style": (list(SHOT_STYLES), {"tooltip": "앵글과 별도로 시선 또는 캔디드 촬영 연출을 선택합니다."}),
                 "pose": (list(POSE_STYLES), {"tooltip": "자세를 따로 선택합니다. 포즈 랜덤 노드의 자세를 사용하려면 지정 안 함을 선택하세요."}),
+                "random_height": (list(PRESETS_BY_HEIGHT), {"default": "all", "tooltip": "랜덤 모드에서 사용할 촬영 높이입니다."}),
             },
         }
 
@@ -102,20 +108,19 @@ class CameraComposition100:
             return f"Unsupported mode: {mode!r}"
         return True
 
-    def compose(self, base_prompt, mode, preset_index, seed, position, shot_style="지정 안 함 · none", pose="지정 안 함 · none"):
+    def compose(self, base_prompt, mode, preset_index, seed, position, shot_style="지정 안 함 · none", pose="지정 안 함 · none", random_height="all"):
         mode = MODE_LABELS.get(mode, mode)
         if mode == "random":
-            offset = random.Random(seed).randrange(PRESET_COUNT)
+            preset = random.Random(seed).choice(PRESETS_BY_HEIGHT[random_height])
         elif mode == "sequential":
-            offset = seed % PRESET_COUNT
+            preset = PRESETS[seed % PRESET_COUNT]
         elif mode == "fixed":
             if not 1 <= preset_index <= PRESET_COUNT:
                 raise ValueError(f"preset_index must be between 1 and {PRESET_COUNT}.")
-            offset = preset_index - 1
+            preset = PRESETS[preset_index - 1]
         else:
             raise ValueError(f"Unsupported mode: {mode!r}")
 
-        preset = PRESETS[offset]
         camera = " ".join(filter(None, (preset["prompt"], SHOT_STYLES[shot_style])))
         base = base_prompt.strip()
         if position == "append":
