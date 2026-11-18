@@ -4,7 +4,7 @@
     align-content: center;
     gap: 5px;
     width: 100%;
-    min-height: 118px;
+    min-height: 152px;
     padding: 6px;
     border: 1px solid #555;
     border-radius: 6px;
@@ -49,6 +49,10 @@
     color: #c0cad7;
     font-size: 11px;
     line-height: 15px;
+}
+
+.ha-camera-height-row {
+    margin-top: 4px;
 }
 
 .ha-camera-preset-picker {

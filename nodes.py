@@ -64,7 +64,12 @@ class CameraComposition100:
                 "mode": (list(MODE_LABELS), {
                     "tooltip": "랜덤: 시드로 선택 · 순차: 시드 0부터 01~100 반복 · 고정: 목록에서 선택한 앵글 사용",
                     "camera_presets": [
-                        {"id": preset["id"], "title": preset["title"], "group": label}
+                        {
+                            "id": preset["id"],
+                            "title": preset["title"],
+                            "group": label,
+                            "height": height,
+                        }
                         for height, label in HEIGHT_LABELS.items()
                         for preset in PRESETS
                         if preset["height"] == height
