@@ -16,6 +16,12 @@ HEIGHT_LABELS = {
     "mid": "중간 · 수평 앵글",
     "low": "하단 · 로우 앵글",
 }
+POSE_STYLES = {
+    "지정 안 함 · none": "",
+    "서기 · standing": "The subject is standing upright.",
+    "앉기 · sitting": "The subject is sitting.",
+    "눕기 · lying": "The subject is lying down.",
+}
 SHOT_STYLES = {
     "지정 안 함 · none": "",
     "카메라 보기 · direct": "The subject looks directly into the camera lens.",
@@ -86,6 +92,7 @@ class CameraComposition100:
             },
             "optional": {
                 "shot_style": (list(SHOT_STYLES), {"tooltip": "앵글과 별도로 시선 또는 캔디드 촬영 연출을 선택합니다."}),
+                "pose": (list(POSE_STYLES), {"tooltip": "자세를 따로 선택합니다. 포즈 랜덤 노드의 자세를 사용하려면 지정 안 함을 선택하세요."}),
             },
         }
 
@@ -95,7 +102,7 @@ class CameraComposition100:
             return f"Unsupported mode: {mode!r}"
         return True
 
-    def compose(self, base_prompt, mode, preset_index, seed, position, shot_style="지정 안 함 · none"):
+    def compose(self, base_prompt, mode, preset_index, seed, position, shot_style="지정 안 함 · none", pose="지정 안 함 · none"):
         mode = MODE_LABELS.get(mode, mode)
         if mode == "random":
             offset = random.Random(seed).randrange(PRESET_COUNT)
@@ -119,7 +126,10 @@ class CameraComposition100:
             raise ValueError(f"Unsupported position: {position!r}")
 
         combined = "\n".join(part for part in parts if part)
-        if base:
+        pose_prompt = POSE_STYLES[pose]
+        if pose_prompt:
+            combined += f"\nPose override: {pose_prompt} Preserve compatible pose details, appearance, clothing, and setting."
+        elif base:
             combined += (
                 "\nPreserve the subject's appearance, clothing, pose, body orientation, action, "
                 "and setting specified above."
