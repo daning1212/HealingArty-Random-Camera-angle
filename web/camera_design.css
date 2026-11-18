@@ -4,7 +4,7 @@
     align-content: center;
     gap: 5px;
     width: 100%;
-    min-height: 260px;
+    min-height: 320px;
     padding: 6px;
     border: 1px solid #555;
     border-radius: 6px;
@@ -95,7 +95,8 @@
     gap: 5px;
 }
 
-.ha-camera-saved-prompts :is(input, select, button) {
+.ha-camera-saved-prompts :is(input, select, button),
+.ha-camera-last-result button {
     box-sizing: border-box;
     min-width: 0;
     padding: 5px 8px;
@@ -107,14 +108,36 @@
     font: inherit;
 }
 
-.ha-camera-saved-prompts button {
+.ha-camera-saved-prompts button,
+.ha-camera-last-result button:enabled {
     cursor: pointer;
 }
 
-.ha-camera-saved-prompts button:hover {
+.ha-camera-saved-prompts button:hover,
+.ha-camera-last-result button:enabled:hover {
     background: #495463;
 }
 
 .ha-camera-saved-prompts [role="status"] {
     min-height: 15px;
+}
+
+.ha-camera-last-result {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 4px 8px;
+    padding-top: 5px;
+    border-top: 1px solid #555;
+}
+
+.ha-camera-last-result [role="status"] {
+    grid-column: 1 / -1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.ha-camera-last-result button:disabled {
+    opacity: .65;
 }

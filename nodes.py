@@ -140,4 +140,7 @@ class CameraComposition100:
                 "and setting specified above."
             )
         info = f"[#{preset['id']:02d} - {preset['title']}] · {preset['category']}"
-        return combined, camera, info
+        return {
+            "ui": {"camera_preset_id": [preset["id"]], "camera_selected_info": [info]},
+            "result": (combined, camera, info),
+        }

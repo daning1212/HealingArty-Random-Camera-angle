@@ -7,7 +7,7 @@ const HEIGHTS = [
     { value: "mid", label: "중간" },
     { value: "high", label: "상단" },
 ];
-const PANEL_HEIGHT = 260;
+const PANEL_HEIGHT = 320;
 const PROMPT_STORAGE_KEY = "HealingArty.CameraComposition100.savedPrompts";
 const MODES = [
     { label: "랜덤", value: "랜덤 · random", api: "random", seedControl: "randomize", hint: "" },
@@ -141,6 +141,23 @@ function addModePanel(node, modeWidget, indexWidget, scopeWidget, presets) {
     picker.append(caption, select);
     panel.append(picker);
 
+    const lastResult = document.createElement("div");
+    lastResult.className = "ha-camera-last-result";
+    const lastLabel = document.createElement("strong");
+    lastLabel.textContent = "마지막 앵글";
+    const lastInfo = document.createElement("div");
+    lastInfo.className = "ha-camera-mode-hint";
+    lastInfo.setAttribute("role", "status");
+    lastInfo.textContent = "실행하면 여기에 표시됩니다.";
+    const pin = document.createElement("button");
+    pin.type = "button";
+    pin.textContent = "이 앵글 고정";
+    pin.disabled = true;
+    lastResult.append(lastLabel, pin, lastInfo);
+    panel.append(lastResult);
+
+    let lastPreset;
+
     let height;
     let renderedHeight;
     let previousFixedIndex;
@@ -190,10 +207,27 @@ function addModePanel(node, modeWidget, indexWidget, scopeWidget, presets) {
         node.setDirtyCanvas?.(true, true);
     }
 
-    select.addEventListener("change", () => {
-        setWidget(node, indexWidget, Number(select.value));
+    function fixPreset(id) {
+        setWidget(node, indexWidget, id);
         applyMode(MODES[2]);
+    }
+
+    select.addEventListener("change", () => fixPreset(Number(select.value)));
+    pin.addEventListener("click", () => {
+        if (lastPreset) fixPreset(lastPreset.id);
     });
+
+    node.updateHealingArtyLastAngle = (output) => {
+        const id = output?.camera_preset_id?.at(-1);
+        const preset = presets.find((entry) => entry.id === id);
+        if (!preset) return;
+
+        lastPreset = preset;
+        lastInfo.textContent = output.camera_selected_info?.at(-1)
+            ?? `#${String(id).padStart(2, "0")} · ${preset.title}`;
+        lastInfo.title = lastInfo.textContent;
+        refresh();
+    };
 
     const buttons = MODES.map((mode) => {
         const button = document.createElement("button");
@@ -216,6 +250,11 @@ function addModePanel(node, modeWidget, indexWidget, scopeWidget, presets) {
         }
         previousFixedIndex = fixedIndex;
         renderHeight();
+
+        const pinned = lastPreset && lastPreset.id === fixedIndex;
+        pin.disabled = !lastPreset || Boolean(pinned);
+        const pinLabel = pinned ? "고정 중" : "이 앵글 고정";
+        if (pin.textContent !== pinLabel) pin.textContent = pinLabel;
 
         const selected = fixedPreset?.height === height ? String(fixedIndex) : "";
         if (select.value !== selected) select.value = selected;
@@ -276,8 +315,15 @@ app.registerExtension({
             if (mode && index && scope && presets?.length && this.addDOMWidget) {
                 this.refreshHealingArtyMode = addModePanel(this, mode, index, scope, presets);
                 const [width, height] = this.computeSize();
-                this.setSize([Math.max(390, width), Math.max(530, height)]);
+                this.setSize([Math.max(390, width), Math.max(590, height)]);
             }
+            return result;
+        };
+
+        const onExecuted = nodeType.prototype.onExecuted;
+        nodeType.prototype.onExecuted = function (output) {
+            const result = onExecuted?.apply(this, arguments);
+            this.updateHealingArtyLastAngle?.(output);
             return result;
         };
 
