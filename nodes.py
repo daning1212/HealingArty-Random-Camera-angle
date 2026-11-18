@@ -13,14 +13,14 @@ MODE_LABELS = {
 
 HEIGHT_LABELS = {
     "high": "상단 · 하이 앵글",
-    "mid": "중간 · 눈높이 / 상체 높이",
+    "mid": "중간 · 수평 앵글",
     "low": "하단 · 로우 앵글",
 }
 SHOT_STYLES = {
     "지정 안 함 · none": "",
     "카메라 보기 · direct": "The subject looks directly into the camera lens.",
     "다른 곳 보기 · away": "The subject looks away from the camera toward a point off-frame.",
-    "캔디드 샷 · candid": "Frame the shot like a candid photograph taken unobserved, with the subject unaware of the camera.",
+    "캔디드 샷 · candid": "Use a candid photographic style.",
 }
 
 
@@ -119,5 +119,7 @@ class CameraComposition100:
             raise ValueError(f"Unsupported position: {position!r}")
 
         combined = "\n".join(part for part in parts if part)
+        if base:
+            combined += "\nKeep the pose, body orientation, and action specified in the base prompt."
         info = f"[#{preset['id']:02d} - {preset['title']}] · {preset['category']}"
         return combined, camera, info

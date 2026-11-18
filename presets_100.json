@@ -1,702 +1,702 @@
 [
   {
     "id": 1,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Single Eye at Eye Level",
-    "prompt": "Extreme close-up at eye level with the iris on the upper-left third. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
+    "category": "Level Angle",
+    "title": "Straight-on Level",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing straight on. Keep the focal point on the upper-left third. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
     "height": "mid"
   },
   {
     "id": 2,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Lips in Profile",
-    "prompt": "Extreme close-up in profile at mouth height, with the lips on the left third and open space on the right. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
+    "category": "Level Angle",
+    "title": "Left-side Level",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt. Keep the focal point on the left third with open space to the right. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
     "height": "mid"
   },
   {
     "id": 3,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Frontal Eye Detail",
-    "prompt": "Tight frontal close-up at eye level with one eye centered and a soft foreground edge. Use a 85mm lens at f/1.4.",
+    "category": "Level Angle",
+    "title": "Level Frontal Close Framing",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing straight on. Center the focal point with a softly blurred frame edge. Use a 85mm lens at f/1.4.",
     "height": "mid"
   },
   {
     "id": 4,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Brow to Cheekbone",
-    "prompt": "Three-quarter extreme close-up from just above eye level, with the brow and cheekbone forming a diagonal. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
+    "category": "High Angle",
+    "title": "High Three-quarter Diagonal",
+    "prompt": "Position the camera above the scene, looking downward at a three-quarter angle. Use a shallow downward angle and diagonal framing. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
     "height": "high"
   },
   {
     "id": 5,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Overhead Face Close-up",
-    "prompt": "Straight-down, forehead-to-chin close-up, framed on a diagonal. Use a 85mm lens at f/1.8.",
+    "category": "High Angle",
+    "title": "Direct Overhead Diagonal",
+    "prompt": "Point the camera straight down from directly above. Roll the overhead camera slightly for diagonal framing. Use a 85mm lens at f/1.8.",
     "height": "high"
   },
   {
     "id": 6,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Extreme Worm’s-eye Close-up",
-    "prompt": "Chin-to-brow close-up from sharply below the chin, with the chin low in the center and focus on the near eye. Use a 85mm lens at f/1.8.",
+    "category": "Low Angle",
+    "title": "Steep Upward Frontal",
+    "prompt": "Use a low camera position, viewing straight on. Place the focal point low and centered. Use a 85mm lens at f/1.8.",
     "height": "low"
   },
   {
     "id": 7,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Edge-of-Frame Profile",
-    "prompt": "Tight eye-level profile close-up against the right edge with open space to the left. Use a 135mm lens at f/1.8.",
+    "category": "Level Angle",
+    "title": "Level Side, Right Edge",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing from the side. Place the focal point near the right edge. Use a 135mm lens at f/1.8.",
     "height": "mid"
   },
   {
     "id": 8,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Near-Eye Focus",
-    "prompt": "Tight three-quarter close-up from just above eye level with focus on the near eye. Use a 85mm lens at f/1.2.",
+    "category": "High Angle",
+    "title": "High Three-quarter Selective Focus",
+    "prompt": "Position the camera above the scene, looking downward at a three-quarter angle. Use a shallow downward angle and a narrow plane of focus. Use a 85mm lens at f/1.2.",
     "height": "high"
   },
   {
     "id": 9,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Eyes Across the Frame",
-    "prompt": "Horizontal extreme close-up from brow to nose bridge at eye level, with both eyes in focus. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
+    "category": "Level Angle",
+    "title": "Level Horizontal Close Framing",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt. Use a tight horizontal composition. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
     "height": "mid"
   },
   {
     "id": 10,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Jawline from Below",
-    "prompt": "Extreme close-up of the jaw and lower cheek from just below the jaw, using a diagonal crop. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
+    "category": "Low Angle",
+    "title": "Low Side Diagonal",
+    "prompt": "Use a low camera position, viewing from the side. Tilt upward from a low side angle and roll the camera slightly. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
     "height": "low"
   },
   {
     "id": 11,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Half Face at the Margin",
-    "prompt": "Frontal extreme close-up at eye level with the left edge bisecting the face and the visible eye on the upper third. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
+    "category": "Level Angle",
+    "title": "Level Frontal, Left-edge Crop",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing straight on. Place the focal point near the left edge of a tight crop. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
     "height": "mid"
   },
   {
     "id": 12,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Three-quarter Cheek Close-up",
-    "prompt": "Eye-level three-quarter close-up with the near eye high in the frame and negative space on the open side. Use a 135mm lens at f/1.8.",
+    "category": "Level Angle",
+    "title": "Level Three-quarter, High in Frame",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt at a three-quarter angle. Place the focal point in the upper portion of the image. Use a 135mm lens at f/1.8.",
     "height": "mid"
   },
   {
     "id": 13,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Diagonal Lash-Line Detail",
-    "prompt": "Angle downward from just above the brow for an extreme close-up, placing the lash line on a diagonal across the lower third. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
+    "category": "High Angle",
+    "title": "High Angle, Lower Diagonal",
+    "prompt": "Position the camera above the scene, looking downward. Use a shallow downward angle and a slight clockwise camera roll. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
     "height": "high"
   },
   {
     "id": 14,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Extreme Close-up High Angle",
-    "prompt": "Shoot steeply downward and crop from the eyebrows to just below the nose, placing the near eye high and off center. Use a 85mm lens at f/1.4.",
+    "category": "High Angle",
+    "title": "Steep Downward, High Off-center",
+    "prompt": "Position the camera above the scene, looking downward. Place the focal point high and off center. Use a 85mm lens at f/1.4.",
     "height": "high"
   },
   {
     "id": 15,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Temple and Ear Detail",
-    "prompt": "Extreme close-up from just behind the subject at eye level, with the ear on the right third and the temple cropped on the left. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
+    "category": "Level Angle",
+    "title": "Level Rear Oblique",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing from behind. Place the focal point on the right third. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
     "height": "mid"
   },
   {
     "id": 16,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Centered Face Close-up",
-    "prompt": "Tight frontal close-up at eye level with symmetrical framing. Use a 85mm lens at f/1.8.",
+    "category": "Level Angle",
+    "title": "Level Frontal Symmetry",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing straight on. Center the focal point in a symmetrical composition. Use a 85mm lens at f/1.8.",
     "height": "mid"
   },
   {
     "id": 17,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Low Frontal Eyes and Brow",
-    "prompt": "Extreme close-up of the eyes and brow from slightly below eye level, with a gently rolled camera. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
+    "category": "Low Angle",
+    "title": "Low Frontal Dutch Angle",
+    "prompt": "Use a low camera position, viewing straight on. Tilt slightly upward with a gentle camera roll. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
     "height": "low"
   },
   {
     "id": 18,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Nose Bridge in Profile",
-    "prompt": "Extreme close-up at nose height with the nose bridge and near eye left of center. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
+    "category": "Level Angle",
+    "title": "Level Side, Left Offset",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing from the side. Place the focal point just left of center. Use a 105mm lens at f/1.8 with a close-focus extension tube.",
     "height": "mid"
   },
   {
     "id": 19,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Overhead Eyes Low in Frame",
-    "prompt": "Tight facial close-up from directly overhead with the eyes in the lower half. Use a 85mm lens at f/1.8.",
+    "category": "High Angle",
+    "title": "Direct Overhead, Low in Frame",
+    "prompt": "Point the camera straight down from directly above. Place the focal point in the lower half. Use a 85mm lens at f/1.8.",
     "height": "high"
   },
   {
     "id": 20,
-    "category": "Editorial & Extreme Close-ups",
-    "title": "Rear Three-quarter Cheek Detail",
-    "prompt": "Eye-level close-up from just behind the side of the face, with the cheek on the right third. Use a 135mm lens at f/1.8.",
+    "category": "Level Angle",
+    "title": "Level Rear Three-quarter, Right Third",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing from behind at a three-quarter angle. Place the focal point on the right third. Use a 135mm lens at f/1.8.",
     "height": "mid"
   },
   {
     "id": 21,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Rear Three-quarter Bust",
-    "prompt": "Eye-level bust portrait from a rear three-quarter camera position with the near shoulder in the lower right. Use a 85mm lens at f/2.8.",
+    "category": "Level Angle",
+    "title": "Level Rear Three-quarter, Lower Right",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing from behind at a three-quarter angle. Place the focal point in the lower-right quadrant. Use a 85mm lens at f/2.8.",
     "height": "mid"
   },
   {
     "id": 22,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Right-Third Lookbook",
-    "prompt": "Eye-level chest-up three-quarter portrait with the subject on the right third and open space on the left. Use a 70mm lens at f/4.",
+    "category": "Level Angle",
+    "title": "Level Oblique, Right Third",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, offset diagonally from the central axis. Leave open space on the left. Use a 70mm lens at f/4.",
     "height": "mid"
   },
   {
     "id": 23,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Centered Frontal Bust",
-    "prompt": "Centered, frontal chest-up portrait at eye level. Use a 50mm lens at f/5.6.",
+    "category": "Level Angle",
+    "title": "Level Frontal, Centered",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing straight on. Center the focal point. Use a 50mm lens at f/5.6.",
     "height": "mid"
   },
   {
     "id": 24,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Waist-up Profile",
-    "prompt": "Waist-up profile at the subject’s eye height with the subject on the left third and open space on the right. Use a 85mm lens at f/4.",
+    "category": "Level Angle",
+    "title": "Level Side, Left Third",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing from the side. Leave open space on the right. Use a 85mm lens at f/4.",
     "height": "mid"
   },
   {
     "id": 25,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Low Centered Waist-up",
-    "prompt": "Waist-up portrait from just below shoulder height with the face centered horizontally. Use a 65mm lens at f/4.",
+    "category": "Low Angle",
+    "title": "Shallow Upward, Centered",
+    "prompt": "Use a low camera position. Center the focal point horizontally. Use a 65mm lens at f/4.",
     "height": "low"
   },
   {
     "id": 26,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "High Three-quarter Waist-up",
-    "prompt": "Slightly high three-quarter waist-up portrait with diagonal framing and room on the left. Use a 58mm lens at f/2.8.",
+    "category": "High Angle",
+    "title": "High Oblique, Open Left",
+    "prompt": "Position the camera above the scene, looking downward, offset diagonally from the central axis. Angle slightly downward and leave open space to the left. Use a 58mm lens at f/2.8.",
     "height": "high"
   },
   {
     "id": 27,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Upper-Left Bust Portrait",
-    "prompt": "Eye-level bust portrait with the face on the upper-left third. Use a 85mm lens at f/2.8.",
+    "category": "Level Angle",
+    "title": "Level Frontal, Upper-left Third",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing straight on. Place the focal point on the upper-left third. Use a 85mm lens at f/2.8.",
     "height": "mid"
   },
   {
     "id": 28,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Chest-height Profile",
-    "prompt": "Chest-up profile shot from chest height with the face on the right third. Use a 75mm lens at f/4.",
+    "category": "Level Angle",
+    "title": "Level Side, Right Third",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing from the side. Leave open space on the left. Use a 75mm lens at f/4.",
     "height": "mid"
   },
   {
     "id": 29,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Waist-up at Eye Level",
-    "prompt": "Medium portrait from eye height, cropped at the waist with the face above center. Use a 50mm lens at f/4.",
+    "category": "Level Angle",
+    "title": "Level Frontal, Above Center",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing straight on. Place the focal point just above center. Use a 50mm lens at f/4.",
     "height": "mid"
   },
   {
     "id": 30,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Shoulder-height Waist-up",
-    "prompt": "Waist-up editorial shot from shoulder height with the face on the upper-right third and open space to the left. Use a 60mm lens at f/5.6.",
+    "category": "Level Angle",
+    "title": "Level Oblique, Upper-right Third",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, offset diagonally from the central axis. Leave extra room to the left. Use a 60mm lens at f/5.6.",
     "height": "mid"
   },
   {
     "id": 31,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Asymmetric Bust Portrait",
-    "prompt": "Chest-up from slightly above eye level with the subject low and left in the frame. Use a 85mm lens at f/2.",
+    "category": "High Angle",
+    "title": "High Angle, Lower-left Third",
+    "prompt": "Position the camera above the scene, looking downward. Angle slightly downward and place the focal point on the lower-left third. Use a 85mm lens at f/2.",
     "height": "high"
   },
   {
     "id": 32,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Rear Waist-up Portrait",
-    "prompt": "Waist-up portrait from behind at shoulder height, centered across the shoulder line. Use a 70mm lens at f/4.",
+    "category": "Level Angle",
+    "title": "Level Rear, Centered",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing from behind. Center the focal point horizontally. Use a 70mm lens at f/4.",
     "height": "mid"
   },
   {
     "id": 33,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Chest-height Waist-up",
-    "prompt": "Waist-up portrait from chest height with negative space in the upper left. Use a 50mm lens at f/5.6.",
+    "category": "Level Angle",
+    "title": "Level Oblique, Upper-left Space",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, offset diagonally from the central axis. Keep the upper-left part of the frame open. Use a 50mm lens at f/5.6.",
     "height": "mid"
   },
   {
     "id": 34,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Offset Three-quarter Bust",
-    "prompt": "Eye-level three-quarter bust portrait with open space above the far shoulder. Use a 85mm lens at f/3.2.",
+    "category": "Level Angle",
+    "title": "Level Three-quarter, Open Above",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt at a three-quarter angle. Leave open space above the focal point. Use a 85mm lens at f/3.2.",
     "height": "mid"
   },
   {
     "id": 35,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Low Three-quarter Bust",
-    "prompt": "Three-quarter bust portrait from just below eye level with the face offset left. Use a 65mm lens at f/2.8.",
+    "category": "Low Angle",
+    "title": "Shallow Upward Three-quarter",
+    "prompt": "Use a low camera position at a three-quarter angle. Place the focal point left of center. Use a 65mm lens at f/2.8.",
     "height": "low"
   },
   {
     "id": 36,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Centered Chest-up Portrait",
-    "prompt": "Eye-level, centered chest-up portrait with generous room below the face. Use a 75mm lens at f/4.",
+    "category": "Level Angle",
+    "title": "Level Centered, Open Below",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt. Leave generous open space below the focal point. Use a 75mm lens at f/4.",
     "height": "mid"
   },
   {
     "id": 37,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Left-Third Lookbook",
-    "prompt": "Waist-up lookbook portrait from chest height with the subject on the left third. Use a 58mm lens at f/4.",
+    "category": "Level Angle",
+    "title": "Level Frontal, Left Third",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing straight on. Place the focal point on the left third. Use a 58mm lens at f/4.",
     "height": "mid"
   },
   {
     "id": 38,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Low Right-Third Waist-up",
-    "prompt": "Waist-up portrait from slightly below chest height, placing the subject on the right. Use a 70mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Shallow Upward, Right Offset",
+    "prompt": "Use a low camera position. Place the focal point right of center. Use a 70mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 39,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "High Diagonal Waist-up",
-    "prompt": "Waist-up portrait from slightly above eye level with diagonal framing from lower left to upper right. Use a 80mm lens at f/4.",
+    "category": "High Angle",
+    "title": "High Angle, Counterclockwise Roll",
+    "prompt": "Position the camera above the scene, looking downward. Tilt slightly down and roll the camera gently counterclockwise. Use a 80mm lens at f/4.",
     "height": "high"
   },
   {
     "id": 40,
-    "category": "Fashion Magazine Bust & Medium Shots",
-    "title": "Eye-level Frontal Bust",
-    "prompt": "Eye-level chest-up portrait with the face centered and the crop balanced across the frame. Use a 85mm lens at f/2.8.",
+    "category": "Level Angle",
+    "title": "Level Frontal, Balanced Frame",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing straight on. Keep equal space to either side of the focal point. Use a 85mm lens at f/2.8.",
     "height": "mid"
   },
   {
     "id": 41,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Low Centered Knee-up",
-    "prompt": "Knee-up cowboy shot from just below waist height, centered at the lower edge. Use a 35mm lens at f/4.",
+    "category": "Low Angle",
+    "title": "Low Frontal, Bottom Center",
+    "prompt": "Use a low camera position, viewing straight on. Place the focal point near the lower center. Use a 35mm lens at f/4.",
     "height": "low"
   },
   {
     "id": 42,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Wall Edge Framing",
-    "prompt": "Cowboy shot from waist height with the subject on the left third beside a vertical wall edge. Use a 40mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Low Frontal, Left Third",
+    "prompt": "Use a low camera position, viewing straight on. Place the focal point on the left third. Use a 40mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 43,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Diagonal Rail Framing",
-    "prompt": "Above-knee portrait from hip height with a railing receding diagonally into the frame. Use a 45mm lens at f/4.",
+    "category": "Low Angle",
+    "title": "Low Oblique Diagonal",
+    "prompt": "Use a low camera position, offset diagonally from the central axis. Use an upward oblique angle and a slight clockwise roll. Use a 45mm lens at f/4.",
     "height": "low"
   },
   {
     "id": 44,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Hip-height Side View",
-    "prompt": "Above-knee profile at hip height with the subject on the left third and an open right half. Use a 50mm lens at f/4.",
+    "category": "Low Angle",
+    "title": "Low Side, Open Right",
+    "prompt": "Use a low camera position, viewing from the side. Place the focal point on the left third. Use a 50mm lens at f/4.",
     "height": "low"
   },
   {
     "id": 45,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Framed from the Lower Step",
-    "prompt": "Above-knee fashion portrait from one step below with the stair edge leading toward the center. Use a 35mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Low Right Oblique, Centered",
+    "prompt": "Use a low camera position, offset diagonally from the central axis. Angle upward from the right and center the focal point. Use a 35mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 46,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Low Cowboy at Center",
-    "prompt": "Low cowboy shot from slightly below hip height with the face centered. Use a 40mm lens at f/4.",
+    "category": "Low Angle",
+    "title": "Low Frontal, Centered",
+    "prompt": "Use a low camera position, viewing straight on. Center the focal point horizontally. Use a 40mm lens at f/4.",
     "height": "low"
   },
   {
     "id": 47,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Right-Third Knee-up",
-    "prompt": "Knee-up shot at waist height with the subject on the right third and open space on the left. Use a 45mm lens at f/4.",
+    "category": "Low Angle",
+    "title": "Low Frontal, Right Third",
+    "prompt": "Use a low camera position, viewing straight on. Leave open space on the left. Use a 45mm lens at f/4.",
     "height": "low"
   },
   {
     "id": 48,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Rear Three-quarter Knee-up",
-    "prompt": "Knee-up rear three-quarter portrait at hip height with open space to the left. Use a 50mm lens at f/3.2.",
+    "category": "Low Angle",
+    "title": "Low Rear Three-quarter",
+    "prompt": "Use a low camera position, viewing from behind at a three-quarter angle. Leave open space to the left. Use a 50mm lens at f/3.2.",
     "height": "low"
   },
   {
     "id": 49,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Horizontal Rail Framing",
-    "prompt": "Above-knee portrait from just below waist level with the railing as a horizontal line behind the centered subject. Use a 35mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Low Angle, Horizontal Framing",
+    "prompt": "Use a low camera position. Use a wide horizontal composition centered on the focal point. Use a 35mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 50,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Wall on the Right Half",
-    "prompt": "Knee-up portrait from chest height with the wall on the right half and open space on the left. Use a 50mm lens at f/4.",
+    "category": "Level Angle",
+    "title": "Level, Open Left",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt. Leave the left half more open than the right. Use a 50mm lens at f/4.",
     "height": "mid"
   },
   {
     "id": 51,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Left Offset Cowboy",
-    "prompt": "Cowboy portrait from slightly below waist level with the subject left of center. Use a 40mm lens at f/4.",
+    "category": "Low Angle",
+    "title": "Low Frontal, Left Offset",
+    "prompt": "Use a low camera position, viewing straight on. Place the focal point just left of center. Use a 40mm lens at f/4.",
     "height": "low"
   },
   {
     "id": 52,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Upper-Left Knee-up",
-    "prompt": "Knee-up portrait at waist height, with the face on the upper-left third and open space toward the right edge. Use a 35mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Low Frontal, Upper-left Third",
+    "prompt": "Use a low camera position, viewing straight on. Place the focal point high and left with room to the right. Use a 35mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 53,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Ledge in the Lower Frame",
-    "prompt": "Above-knee portrait from just below the subject’s eye height, using the ledge as a lower framing line. Use a 50mm lens at f/4.",
+    "category": "Low Angle",
+    "title": "Shallow Upward, Low Framing",
+    "prompt": "Use a low camera position. Keep the focal point below the horizontal midpoint. Use a 50mm lens at f/4.",
     "height": "low"
   },
   {
     "id": 54,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Mid-thigh Camera Height",
-    "prompt": "Centered cowboy portrait from mid-thigh camera height. Use a 45mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Low Frontal Symmetry",
+    "prompt": "Use a low camera position, viewing straight on. Keep the focal point centered with equal margins. Use a 45mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 55,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Staircase from Below",
-    "prompt": "Knee-up portrait from below the subject on the stairs with a leading line from the lower-left corner. Use a 35mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Steep Upward, Lower-left Diagonal",
+    "prompt": "Use a low camera position. Use a slight counterclockwise roll to give the image a diagonal orientation. Use a 35mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 56,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Cowboy Framed by a Post",
-    "prompt": "Three-quarter cowboy portrait from hip height with the post at the left edge and the subject on the right third. Use a 50mm lens at f/4.",
+    "category": "Low Angle",
+    "title": "Low Three-quarter, Right Third",
+    "prompt": "Use a low camera position at a three-quarter angle. Leave open space to the left. Use a 50mm lens at f/4.",
     "height": "low"
   },
   {
     "id": 57,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Wide Side Space Knee-up",
-    "prompt": "Knee-up shot from waist height with ample negative space on the left. Use a 35mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Low Angle, Wide Left Margin",
+    "prompt": "Use a low camera position. Place the focal point to the right with ample negative space on the left. Use a 35mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 58,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Off-center Above-knee Crop",
-    "prompt": "Above-knee crop at waist height with the subject on the left third and the right half open. Use a 45mm lens at f/3.5.",
+    "category": "Low Angle",
+    "title": "Low Angle, Wide Right Margin",
+    "prompt": "Use a low camera position. Place the focal point to the left with ample negative space on the right. Use a 45mm lens at f/3.5.",
     "height": "low"
   },
   {
     "id": 59,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Backlit Railing Profile",
-    "prompt": "Knee-up side view from just below hip height with a backlit rail crossing the lower frame. Use a 50mm lens at f/4.",
+    "category": "Low Angle",
+    "title": "Low Side, Horizontal Frame",
+    "prompt": "Use a low camera position, viewing from the side. Use a horizontal composition with a slight upward tilt. Use a 50mm lens at f/4.",
     "height": "low"
   },
   {
     "id": 60,
-    "category": "Cowboy & Knee-up Framing",
-    "title": "Near-frontal Cowboy",
-    "prompt": "Near-frontal cowboy portrait from hip height with the subject slightly right of center. Use a 40mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Low Near-frontal, Right Offset",
+    "prompt": "Use a low camera position. Place the focal point slightly right of center. Use a 40mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 61,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Centered Doorway",
-    "prompt": "Centered full-body portrait from waist height with the doorway jambs aligned symmetrically around the subject. Use a 28mm lens at f/8.",
+    "category": "Low Angle",
+    "title": "Low Wide Symmetry",
+    "prompt": "Use a low camera position. Use a wide symmetrical composition. Use a 28mm lens at f/8.",
     "height": "low"
   },
   {
     "id": 62,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Small Figure, Broad Wall",
-    "prompt": "Head-to-toe portrait from chest height with the subject in the lower-right third against a broad wall. Use a 35mm lens at f/8.",
+    "category": "Level Angle",
+    "title": "Level Wide, Lower-right Third",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt. Place the focal point low and right with generous margins. Use a 35mm lens at f/8.",
     "height": "mid"
   },
   {
     "id": 63,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Arcade Vanishing Point",
-    "prompt": "Full-body view down a row of arches from waist height with the subject on the central axis. Use a 24mm lens at f/8.",
+    "category": "Low Angle",
+    "title": "Low Wide, Central Axis",
+    "prompt": "Use a low camera position. Align the camera with the center of the composition. Use a 24mm lens at f/8.",
     "height": "low"
   },
   {
     "id": 64,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Window Bay Frame",
-    "prompt": "Full-body editorial from waist height with the subject framed inside the window bay. Use a 32mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Low Wide, Tight Margins",
+    "prompt": "Use a low camera position. Keep the margins balanced around the focal point. Use a 32mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 65,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Concrete Diagonal",
-    "prompt": "Head-to-toe portrait from hip height with the subject on the lower-left third and a rising architectural diagonal behind. Use a 28mm lens at f/8.",
+    "category": "Low Angle",
+    "title": "Low Wide, Lower-left Diagonal",
+    "prompt": "Use a low camera position. Place the focal point low and left with a slight camera roll. Use a 28mm lens at f/8.",
     "height": "low"
   },
   {
     "id": 66,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Between Two Columns",
-    "prompt": "Full-body portrait from chest height with the columns framing an off-center subject. Use a 35mm lens at f/8.",
+    "category": "Level Angle",
+    "title": "Level Wide, Off-center",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt. Shift the focal point left of the centerline. Use a 35mm lens at f/8.",
     "height": "mid"
   },
   {
     "id": 67,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Stairwell Grid",
-    "prompt": "Full-body portrait from a high landing with the subject set against the rectangular stairwell grid. Use a 24mm lens at f/8.",
+    "category": "High Angle",
+    "title": "High Wide Diagonal",
+    "prompt": "Position the camera above the scene, looking downward. Use a steep downward angle and diagonal framing. Use a 24mm lens at f/8.",
     "height": "high"
   },
   {
     "id": 68,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Offset Threshold Profile",
-    "prompt": "Full-length profile from waist height with the doorway centered and the subject near the left jamb. Use a 35mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Low Side, Left Offset",
+    "prompt": "Use a low camera position, viewing from the side. Place the focal point just left of center. Use a 35mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 69,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Corridor Offset",
-    "prompt": "Full-length view from chest height with a centered vanishing point and the subject on the right third. Use a 28mm lens at f/8.",
+    "category": "Level Angle",
+    "title": "Level Wide, Right Third",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt. Keep the camera straight and the focal point to the right. Use a 28mm lens at f/8.",
     "height": "mid"
   },
   {
     "id": 70,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Under a Tall Arch",
-    "prompt": "Full-body portrait from low waist height. Keep the camera level so the arch dominates the upper frame and verticals stay straight. Use a 24mm lens at f/8.",
+    "category": "Low Angle",
+    "title": "Low Wide, Level Camera",
+    "prompt": "Use a low camera position. Keep the camera horizontal and leave generous space above the focal point. Use a 24mm lens at f/8.",
     "height": "low"
   },
   {
     "id": 71,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Side View along a Long Wall",
-    "prompt": "Full-body side view from hip height with the subject on the right third and the wall stretching across the open left side. Use a 35mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Low Side, Wide Left Space",
+    "prompt": "Use a low camera position, viewing from the side. Place the focal point on the right third and leave the left side open. Use a 35mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 72,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Framed through an Arch",
-    "prompt": "Full-length view through a foreground arch from waist height, with the subject slightly left of center inside the brighter interior. Use a 28mm lens at f/8.",
+    "category": "Low Angle",
+    "title": "Low Wide, Open Edges",
+    "prompt": "Use a low camera position. Place the focal point slightly left of center with generous margins. Use a 28mm lens at f/8.",
     "height": "low"
   },
   {
     "id": 73,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Landing and Balustrade",
-    "prompt": "Full-body editorial from an adjacent landing at chest height, using the balustrade as a leading line toward the subject. Use a 32mm lens at f/8.",
+    "category": "Level Angle",
+    "title": "Level Side, Open Right",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, viewing from the side. Direct the camera across the frame and leave open space on the right. Use a 32mm lens at f/8.",
     "height": "mid"
   },
   {
     "id": 74,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Negative Space Above",
-    "prompt": "Full-body portrait from hip height with the figure low and centered below a tall facade. Use a 28mm lens at f/8.",
+    "category": "Low Angle",
+    "title": "Low Wide, Open Above",
+    "prompt": "Use a low camera position. Place the focal point low and centered with ample space above. Use a 28mm lens at f/8.",
     "height": "low"
   },
   {
     "id": 75,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Side-lit Recess",
-    "prompt": "Head-to-toe portrait at waist height with the subject near the lit edge of a deep recess. Use a 35mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Low Oblique, Near Edge",
+    "prompt": "Use a low camera position, offset diagonally from the central axis. Place the focal point near the right edge. Use a 35mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 76,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Corner Lines Meet",
-    "prompt": "Full-body portrait from waist height with the subject beside the vertical line where two walls meet. Use a 24mm lens at f/8.",
+    "category": "Low Angle",
+    "title": "Low Frontal, Vertical Frame",
+    "prompt": "Use a low camera position, viewing straight on. Keep the camera level and use a vertical composition. Use a 24mm lens at f/8.",
     "height": "low"
   },
   {
     "id": 77,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Across the Courtyard",
-    "prompt": "Slightly elevated wide courtyard view with a small full-body figure at the convergence of the paving lines. Use a 35mm lens at f/8.",
+    "category": "High Angle",
+    "title": "High Wide, Negative Space",
+    "prompt": "Position the camera above the scene, looking downward. Use a slightly downward angle with a small focal area and generous negative space. Use a 35mm lens at f/8.",
     "height": "high"
   },
   {
     "id": 78,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Frame within Repeating Frames",
-    "prompt": "Head-to-toe portrait from waist height with two successive doorways aligned around the subject in the farther opening. Use a 28mm lens at f/8.",
+    "category": "Low Angle",
+    "title": "Low Wide, Centered Depth",
+    "prompt": "Use a low camera position. Center the framing and use a deep focus plane. Use a 28mm lens at f/8.",
     "height": "low"
   },
   {
     "id": 79,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Plinth Edge Framing",
-    "prompt": "Full-body portrait from shoulder height with the subject on the left third and the plinth edge leading to the right. Use a 35mm lens at f/5.6.",
+    "category": "Level Angle",
+    "title": "Level Wide, Left Third",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt. Place the focal point on the left third. Use a 35mm lens at f/5.6.",
     "height": "mid"
   },
   {
     "id": 80,
-    "category": "Full-Body & Architectural Framing",
-    "title": "Facade at the Edge",
-    "prompt": "Full-length environmental portrait at chest height, with the subject near the left third by the facade edge and a clear right half. Use a 24mm lens at f/8.",
+    "category": "Level Angle",
+    "title": "Level Wide, Right-side Space",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt. Keep the focal point on the left with the right half open. Use a 24mm lens at f/8.",
     "height": "mid"
   },
   {
     "id": 81,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Clockwise Dutch Bust",
-    "prompt": "Chest-up portrait at eye level with a clockwise camera roll. Use a 50mm lens at f/2.8.",
+    "category": "Level Angle",
+    "title": "Level Clockwise Dutch Angle",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt. Roll the camera clockwise. Use a 50mm lens at f/2.8.",
     "height": "mid"
   },
   {
     "id": 82,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Counterclockwise Corridor",
-    "prompt": "Full-body corridor portrait from waist height with a counterclockwise Dutch tilt and the subject high in the tilted frame. Use a 28mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Low Counterclockwise Dutch Angle",
+    "prompt": "Use a low camera position. Roll the camera counterclockwise and place the focal point high in the tilted frame. Use a 28mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 83,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Straight-down Diagonal Portrait",
-    "prompt": "Straight-down full-body framing along a diagonal. Use a 35mm lens at f/5.6.",
+    "category": "High Angle",
+    "title": "Overhead, Strong Diagonal",
+    "prompt": "Point the camera straight down from directly above. Use a strong diagonal composition. Use a 35mm lens at f/5.6.",
     "height": "high"
   },
   {
     "id": 84,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Bird’s-eye Floor Intersection",
-    "prompt": "Straight-down full-body environmental view with the subject where two floor lines intersect. Use a 28mm lens at f/8.",
+    "category": "High Angle",
+    "title": "Overhead Wide, Centered",
+    "prompt": "Point the camera straight down from directly above. Center the focal point. Use a 28mm lens at f/8.",
     "height": "high"
   },
   {
     "id": 85,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Floor-level Full Body",
-    "prompt": "Wide full-body view from floor level, angled steeply upward with the subject near the center to limit edge stretch. Use a 20mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Near-surface Steep Upward",
+    "prompt": "Use a low camera position. Angle sharply upward and keep the focal point near center to limit edge distortion. Use a 20mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 86,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "From Beneath the Landing",
-    "prompt": "Wide head-to-toe shot angled steeply up from below an open landing, with the staircase crossing the frame diagonally. Use a 24mm lens at f/8.",
+    "category": "Low Angle",
+    "title": "Steep Upward Wide Diagonal",
+    "prompt": "Use a low camera position. Use a wide frame with a slight diagonal camera roll. Use a 24mm lens at f/8.",
     "height": "low"
   },
   {
     "id": 87,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Through Window Reflections",
-    "prompt": "Eye-level waist-up shot through reflective glass, with the subject on the right third in a clear patch and soft reflections on the left. Use a 85mm lens at f/2.8.",
+    "category": "Level Angle",
+    "title": "Level, Soft Left Edge",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt. Place the focal point on the right third with soft focus near the left edge. Use a 85mm lens at f/2.8.",
     "height": "mid"
   },
   {
     "id": 88,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Past a Blurred Shoulder",
-    "prompt": "Eye-level medium close-up with an out-of-focus foreground shoulder on the left and the subject on the opposite third. Use a 105mm lens at f/2.8.",
+    "category": "Level Angle",
+    "title": "Level, Soft Left Foreground",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt. Use shallow depth of field and place the focal point on the right third. Use a 105mm lens at f/2.8.",
     "height": "mid"
   },
   {
     "id": 89,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Through a Narrow Gap",
-    "prompt": "Waist-up shot at shoulder height through a narrow foreground gap, keeping the face in the clear opening just off center. Use a 100mm lens at f/2.8.",
+    "category": "Level Angle",
+    "title": "Level, Tight Framing",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt. Keep sharp focus slightly off center and leave narrow margins. Use a 100mm lens at f/2.8.",
     "height": "mid"
   },
   {
     "id": 90,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Low Dutch Cowboy",
-    "prompt": "Knee-up cowboy frame from below hip height with a slight clockwise camera roll and the subject along the rising diagonal. Use a 32mm lens at f/4.",
+    "category": "Low Angle",
+    "title": "Low Clockwise Dutch Angle",
+    "prompt": "Use a low camera position. Roll slightly clockwise and place the focal point along the rising diagonal. Use a 32mm lens at f/4.",
     "height": "low"
   },
   {
     "id": 91,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Near-lens Light Bokeh",
-    "prompt": "Eye-level head-and-shoulders portrait with the subject on the right third and blurred near-lens lights along the left and bottom edges. Use a 85mm lens at f/1.8.",
+    "category": "Level Angle",
+    "title": "Level, Edge Bokeh",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt. Keep the focal point on the right third and soften the left and lower frame edges. Use a 85mm lens at f/1.8.",
     "height": "mid"
   },
   {
     "id": 92,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Bird’s-eye Medium Crop",
-    "prompt": "Directly overhead medium portrait with diagonal framing across the lower edge. Use a 35mm lens at f/5.6.",
+    "category": "High Angle",
+    "title": "Overhead, Tight Diagonal",
+    "prompt": "Point the camera straight down from directly above. Use a tight crop with a slight diagonal roll. Use a 35mm lens at f/5.6.",
     "height": "high"
   },
   {
     "id": 93,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "View through Balusters",
-    "prompt": "Knee-up shot from below waist height through foreground balusters, placing the face in a clear gap between soft vertical bands. Use a 70mm lens at f/2.8.",
+    "category": "Low Angle",
+    "title": "Low, Narrow Focal Area",
+    "prompt": "Use a low camera position. Use shallow depth of field with a narrow central area in focus. Use a 70mm lens at f/2.8.",
     "height": "low"
   },
   {
     "id": 94,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Near-floor Wide View",
-    "prompt": "Wide full-body view from near floor height, angled upward with negative space on one side. Use a 24mm lens at f/4.",
+    "category": "Low Angle",
+    "title": "Near-surface Upward, Open Side",
+    "prompt": "Use a low camera position. Angle upward from just above the nearest surface and leave negative space on one side. Use a 24mm lens at f/4.",
     "height": "low"
   },
   {
     "id": 95,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "High Oblique Street Still",
-    "prompt": "Full-body view steeply downward from a balcony, with the subject low in the frame at the convergence of paving lines. Use a 50mm lens at f/5.6.",
+    "category": "High Angle",
+    "title": "Steep High Oblique",
+    "prompt": "Position the camera above the scene, looking downward, offset diagonally from the central axis. Place the focal point low in the image. Use a 50mm lens at f/5.6.",
     "height": "high"
   },
   {
     "id": 96,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Off-axis through Foliage",
-    "prompt": "Chest-up portrait from slightly above eye level with the face left of center in a gap between soft foreground leaves. Use a 135mm lens at f/2.8.",
+    "category": "High Angle",
+    "title": "High Off-axis, Left Offset",
+    "prompt": "Position the camera above the scene, looking downward, offset diagonally from the central axis. Use a slightly downward angle and keep the focal point just left of center. Use a 135mm lens at f/2.8.",
     "height": "high"
   },
   {
     "id": 97,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Mirror-edge Fragment",
-    "prompt": "Bust shot reflected in a mirror from an oblique, chest-height angle, with the reflection on the right third framed by the mirror edge. Use a 50mm lens at f/4.",
+    "category": "Level Angle",
+    "title": "Level Oblique, Right Offset",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt, offset diagonally from the central axis. Place the focal point on the right third with a tight outer margin. Use a 50mm lens at f/4.",
     "height": "mid"
   },
   {
     "id": 98,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Through a Soft Foreground Crowd",
-    "prompt": "Knee-up shot from shoulder height with the subject in focus at the center between soft foreground figures. Use a 105mm lens at f/2.8.",
+    "category": "Level Angle",
+    "title": "Level, Center Focus",
+    "prompt": "Use a level camera viewpoint with no upward or downward tilt. Keep the center sharp with soft foreground edges. Use a 105mm lens at f/2.8.",
     "height": "mid"
   },
   {
     "id": 99,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Skewed Ground-level Profile",
-    "prompt": "Wide, full-body profile from near ground level with a slight camera roll and open space along the rising diagonal. Use a 28mm lens at f/5.6.",
+    "category": "Low Angle",
+    "title": "Near-surface Side Dutch Angle",
+    "prompt": "Use a low camera position, viewing from the side. Use a slight roll and leave room along the rising diagonal. Use a 28mm lens at f/5.6.",
     "height": "low"
   },
   {
     "id": 100,
-    "category": "Cinematic & Avant-Garde Angles",
-    "title": "Overhead Stair Spiral",
-    "prompt": "Straight-down wide full-body view with the subject on the landing at the edge of a turning staircase. Use a 24mm lens at f/8.",
+    "category": "High Angle",
+    "title": "Overhead Wide, Offset",
+    "prompt": "Point the camera straight down from directly above. Place the focal point in the upper-right quadrant. Use a 24mm lens at f/8.",
     "height": "high"
   }
 ]
