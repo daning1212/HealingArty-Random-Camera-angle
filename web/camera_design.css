@@ -1,0 +1,52 @@
+.ha-camera-mode-panel {
+    box-sizing: border-box;
+    display: grid;
+    align-content: center;
+    gap: 5px;
+    width: 100%;
+    min-height: 66px;
+    padding: 6px;
+    border: 1px solid #555;
+    border-radius: 6px;
+    background: #222;
+    color: #ddd;
+    font: 12px system-ui, sans-serif;
+}
+
+.ha-camera-mode-row {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 5px;
+}
+
+.ha-camera-mode-row button {
+    padding: 5px 2px;
+    border: 1px solid #555;
+    border-radius: 4px;
+    background: #343434;
+    color: #eee;
+    font: inherit;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.ha-camera-mode-row button:hover {
+    background: #495463;
+}
+
+.ha-camera-mode-row button[aria-pressed="true"] {
+    border-color: #83baff;
+    background: #294768;
+    color: #fff;
+}
+
+.ha-camera-mode-row button:focus-visible {
+    outline: 2px solid #a6ccff;
+    outline-offset: 1px;
+}
+
+.ha-camera-mode-hint {
+    color: #c0cad7;
+    font-size: 11px;
+    line-height: 15px;
+}
