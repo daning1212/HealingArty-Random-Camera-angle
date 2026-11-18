@@ -120,6 +120,9 @@ class CameraComposition100:
 
         combined = "\n".join(part for part in parts if part)
         if base:
-            combined += "\nKeep the pose, body orientation, and action specified in the base prompt."
+            combined += (
+                "\nPreserve the subject's appearance, clothing, pose, body orientation, action, "
+                "and setting specified above."
+            )
         info = f"[#{preset['id']:02d} - {preset['title']}] · {preset['category']}"
         return combined, camera, info
