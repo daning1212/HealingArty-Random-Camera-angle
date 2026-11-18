@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Single Eye at Eye Level",
+    "prompt": "An extreme close-up on a 105mm lens at f/1.8 with a close-focus extension tube, shot at eye level with one eye on the upper-left third. The subject looks directly into the lens, with focus on the iris and the brow fading toward the edge."
+  },
+  {
+    "id": 2,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Lips in Profile",
+    "prompt": "An extreme close-up of the lips on a 105mm lens at f/1.8 with a close-focus extension tube, shot level with the mouth from the side. Place the gently parted lips on the left third and leave room on the right in the direction the face points."
+  },
+  {
+    "id": 3,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Through the Fingers",
+    "prompt": "Shoot a tight frontal close-up from eye level on an 85mm lens at f/1.4. Center the one eye visible between two fingers as the subject looks into the lens, letting the fingertips fall slightly out of focus."
+  },
+  {
+    "id": 4,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Brow to Cheekbone",
+    "prompt": "Frame a three-quarter extreme close-up from slightly above the eyes on a 105mm lens at f/1.8 with a close-focus extension tube. Let the brow and cheekbone trace a diagonal while the subject lowers their gaze toward the near frame edge."
+  },
+  {
+    "id": 5,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Reclined Overhead Close-up",
+    "prompt": "Photograph a reclined subject straight down with an 85mm lens at f/1.8 in a forehead-to-chin close-up. Angle the face across opposite corners as the subject looks back up at the camera with a relaxed jaw."
+  },
+  {
+    "id": 6,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Extreme Worm's-eye Close-up",
+    "prompt": "Shoot a chin-to-brow close-up from sharply beneath the chin on an 85mm lens at f/1.8. Place the chin low and central as the subject looks past the camera, with the focus falling on the near eye."
+  },
+  {
+    "id": 7,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Edge-of-Frame Profile",
+    "prompt": "Use a 135mm lens at f/1.8 for a tight eye-level profile close-up. Anchor the face against the right edge with open space to the left, where the subject fixes a distant gaze."
+  },
+  {
+    "id": 8,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Near Eye over Cuff",
+    "prompt": "Shoot a tight three-quarter close-up on an 85mm lens at f/1.2 from just above eye level. Let a raised cuff cover the lower face on a diagonal and hold focus on the near eye looking across the frame."
+  },
+  {
+    "id": 9,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Eyes Across the Frame",
+    "prompt": "Use a 105mm lens at f/1.8 with a close-focus extension tube at eye level for a horizontal extreme close-up from brow to nose bridge. Keep both eyes in the same plane as the subject looks just beyond the camera."
+  },
+  {
+    "id": 10,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Jawline from Below",
+    "prompt": "Frame the jaw and lower cheek in extreme close-up on a 105mm lens at f/1.8 with a close-focus extension tube from just below the jaw. Let the jawline cross diagonally as the subject turns away and lifts their chin a little."
+  },
+  {
+    "id": 11,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Half Face at the Margin",
+    "prompt": "Shoot a frontal extreme close-up at eye level on a 105mm lens at f/1.8 with a close-focus extension tube. Let the left frame edge bisect the face and keep the visible eye on the upper third as the subject looks straight ahead."
+  },
+  {
+    "id": 12,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Palm against Cheek",
+    "prompt": "Shoot an eye-level close-up on a 135mm lens at f/1.8 from the subject's three-quarter side. Rest the cheek on an open palm and position the near eye high in the frame, looking out through the open side."
+  },
+  {
+    "id": 13,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Downcast Lashes",
+    "prompt": "On a 105mm lens at f/1.8 with a close-focus extension tube, shoot downward from just above the brow for an extreme close-up of one lowered eyelid. Set the lash line diagonally across the lower third as the subject tips their head forward."
+  },
+  {
+    "id": 14,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Extreme Close-up High Angle",
+    "prompt": "Shoot steeply down on an 85mm lens at f/1.4 for a close crop from the eyebrows to just below the nose. Set the near eye high and off center as the subject lifts only their gaze toward the lens."
+  },
+  {
+    "id": 15,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Temple and Ear Detail",
+    "prompt": "From just behind the subject at eye height, use a 105mm lens at f/1.8 with a close-focus extension tube for an extreme close-up. Place the ear at the right third and let the temple exit the left edge as the face turns away."
+  },
+  {
+    "id": 16,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Face between Raised Hands",
+    "prompt": "Shoot a tight frontal close-up at eye level on an 85mm lens at f/1.8. Use the palms beside the temples as a vertical frame while the subject looks slightly above the lens."
+  },
+  {
+    "id": 17,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Eyes under a Tilted Brow",
+    "prompt": "Use a 105mm lens at f/1.8 with a close-focus extension tube from a slightly low, frontal position for an extreme close-up of the eyes and brow. Set the eyes on a gentle diagonal as the subject tilts their head sideways and looks back at the lens."
+  },
+  {
+    "id": 18,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Nose Bridge in Profile",
+    "prompt": "Shoot level with the nose on a 105mm lens at f/1.8 with a close-focus extension tube for an extreme close-up of the nose bridge and near eye. Place the profile left of center facing right, with the gaze level and the jaw relaxed."
+  },
+  {
+    "id": 19,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Overhead Hand at Forehead",
+    "prompt": "Use an 85mm lens at f/1.8 straight above a reclined subject for a tight facial close-up. Let the forearm enter from the top edge with fingers resting at the hairline, and place the upward-looking eyes in the lower half."
+  },
+  {
+    "id": 20,
+    "category": "Editorial & Extreme Close-ups",
+    "title": "Turn Back into Focus",
+    "prompt": "Shoot an eye-level close-up on a 135mm lens at f/1.8 from just behind the side of the face. Put the turning cheek on the right third and catch the near eye coming into view as the subject glances back across the frame."
+  },
+  {
+    "id": 21,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Shoulder Check",
+    "prompt": "Shoot a back-facing bust portrait at eye level with an 85mm lens at f/2.8. Place the near shoulder on the lower-right diagonal as the subject turns their head over it to meet the lens."
+  },
+  {
+    "id": 22,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Right-Third Lookbook",
+    "prompt": "Shoot a chest-up three-quarter portrait on a 70mm lens at f/4 from eye level. Put the subject on the right third, with one shoulder eased forward and their gaze crossing the open space to the left."
+  },
+  {
+    "id": 23,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Square Shoulders",
+    "prompt": "Shoot a centered, chest-up portrait at eye level with a 50mm lens at f/5.6. Hold the shoulders level and square to the camera as the subject looks straight into the lens with a neutral expression."
+  },
+  {
+    "id": 24,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Seated Waist-up Profile",
+    "prompt": "Use an 85mm lens at f/4 from the seated subject's eye height for a waist-up profile. Place the subject on the left third, resting one forearm across their lap and looking across the space to the right."
+  },
+  {
+    "id": 25,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Arms Folded Low",
+    "prompt": "Shoot a waist-up portrait on a 65mm lens at f/4 from just below shoulder height. Center the face above the horizontal line of loosely folded arms as the subject holds the camera's gaze."
+  },
+  {
+    "id": 26,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Turn at the Waist",
+    "prompt": "Use a 58mm lens at f/2.8 for a slightly high waist-up shot. Let the torso face the left edge while the shoulders turn back on a diagonal and the eyes settle just right of the lens."
+  },
+  {
+    "id": 27,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Hand at Collarbone",
+    "prompt": "Shoot a bust portrait at eye level on an 85mm lens at f/2.8. Place the face on the upper-left third and let one hand rest lightly at the collarbone as the subject looks down toward the opposite corner."
+  },
+  {
+    "id": 28,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Shoulder-led Profile",
+    "prompt": "Use a 75mm lens at f/4 from chest height for a chest-up profile. Position the face on the right third pointing left, with a lowered near shoulder and the gaze lifted slightly above the horizon."
+  },
+  {
+    "id": 29,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Waist-up Lean Forward",
+    "prompt": "Shoot from seated eye height on a 50mm lens at f/4 for a medium portrait cropped at the waist. Set the face above center as the subject leans forward slightly, elbows drawn in and eyes fixed on the camera."
+  },
+  {
+    "id": 30,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "One Elbow Out",
+    "prompt": "Shoot a waist-up editorial on a 60mm lens at f/5.6 from shoulder height. Place the face on the upper-right third and let a bent elbow extend left as the subject looks toward that side."
+  },
+  {
+    "id": 31,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Asymmetric Bust Portrait",
+    "prompt": "Shoot chest-up with an 85mm lens at f/2 from slightly above eye level. Keep the subject low and left in the frame, head inclined toward the raised shoulder and eyes looking out across the upper-right space."
+  },
+  {
+    "id": 32,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Back to Camera",
+    "prompt": "Shoot a waist-up portrait at shoulder height with a 70mm lens at f/4. Center the shoulder blades as the subject turns their face far enough toward the right edge to reveal a clear profile."
+  },
+  {
+    "id": 33,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Diagonal Forearm",
+    "prompt": "Use a 50mm lens at f/5.6 at chest height for a waist-up portrait. Let one forearm cross the lower frame and loosely cradle the opposite elbow while the subject looks toward the upper-left third."
+  },
+  {
+    "id": 34,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Seated Shoulder Turn",
+    "prompt": "Shoot a seated bust portrait at eye level on an 85mm lens at f/3.2. Angle the shoulders away from the lens, leaving space above the far shoulder as the subject looks back over the near one."
+  },
+  {
+    "id": 35,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Chin Tilt in Three-quarter",
+    "prompt": "Shoot a three-quarter bust portrait on a 65mm lens at f/2.8 from just below eye level. Offset the face left as the subject lifts the chin a little and directs their gaze into the right half."
+  },
+  {
+    "id": 36,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Eyes above Framing Hands",
+    "prompt": "Use a 75mm lens at f/4 at eye level for a centered, chest-up portrait. Let the hands meet lightly below the chin with the elbows falling toward the lower corners as the subject looks just past the camera."
+  },
+  {
+    "id": 37,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Turn Mid-gesture",
+    "prompt": "Shoot a waist-up lookbook portrait on a 58mm lens at f/4 from chest height. Place the subject on the left third as their raised hand drops toward the waist and their gaze follows it."
+  },
+  {
+    "id": 38,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Hands behind Back",
+    "prompt": "Use a 70mm lens at f/5.6 from slightly below chest height for a waist-up portrait. Position the subject on the right, shoulders gently pulled back by hands held behind the waist, and let the gaze cross left."
+  },
+  {
+    "id": 39,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Seated Side Lean",
+    "prompt": "Use an 80mm lens at f/4 for a waist-up seated portrait from slightly above eye level. Let a relaxed lean make a diagonal from the lower-left edge to the face as the subject looks up toward the lens."
+  },
+  {
+    "id": 40,
+    "category": "Fashion Magazine Bust & Medium Shots",
+    "title": "Frontal Look, Turned Torso",
+    "prompt": "Shoot chest-up on an 85mm lens at f/2.8 from eye level. Place the face on center while the torso angles to the right and the eyes hold a steady frontal gaze."
+  },
+  {
+    "id": 41,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Walk into the Lower Frame",
+    "prompt": "Shoot a knee-up cowboy shot from just below waist height on a 35mm lens at f/4. Center the leading thigh at the bottom of the frame as the subject walks toward the lens, eyes set just past it."
+  },
+  {
+    "id": 42,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Wall Brace",
+    "prompt": "Shoot a cowboy shot from waist height on a 40mm lens at f/5.6. Set the subject on the left third beside the wall edge, with one shoulder braced against it and the gaze directed across the frame."
+  },
+  {
+    "id": 43,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Railside Turn",
+    "prompt": "Use a 45mm lens at f/4 from hip height for an above-knee portrait beside a railing. Let the rail recede diagonally as the subject rests a forearm on it and turns to meet the camera."
+  },
+  {
+    "id": 44,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Passing Side Stride",
+    "prompt": "Shoot an above-knee profile at hip height on a 50mm lens at f/4. Put the subject on the left third in mid-stride, looking toward the open right half."
+  },
+  {
+    "id": 45,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Pivot on the Landing",
+    "prompt": "Shoot an above-knee fashion portrait on a 35mm lens at f/5.6 from one step below. Let the stair edge lead to center as the subject shifts their weight and glances back over a shoulder."
+  },
+  {
+    "id": 46,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Hip Shift at Center",
+    "prompt": "Shoot a low cowboy shot on a 40mm lens at f/4 from slightly below hip height. Balance the centered face against a hip pushed to the left and a relaxed hand dropping along the opposite thigh."
+  },
+  {
+    "id": 47,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Cross-step on the Third",
+    "prompt": "Use a 45mm lens at f/4 at waist height for a knee-up shot. Put the subject on the right third as one thigh crosses the other and their gaze travels left into the available space."
+  },
+  {
+    "id": 48,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Trailing Shoulder",
+    "prompt": "Shoot a knee-up rear three-quarter portrait at hip height with a 50mm lens at f/3.2. Let the subject walk toward the left edge while their turned face looks back through the right half."
+  },
+  {
+    "id": 49,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Hands on the Railing",
+    "prompt": "Shoot an above-knee portrait on a 35mm lens at f/5.6 from just below waist level. Center the subject leaning back lightly against the horizontal rail, palms on either side and chin lifted toward the camera."
+  },
+  {
+    "id": 50,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Elbow against the Wall",
+    "prompt": "Use a 50mm lens at f/4 from the subject's chest height for a knee-up portrait. Let the wall occupy the right half while the subject rests a bent elbow against it and looks outward to the left."
+  },
+  {
+    "id": 51,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Loose Turn in Motion",
+    "prompt": "On a 40mm lens at f/4, shoot a cowboy portrait from slightly below waist level. Frame the turning hips to the left of center while the shoulders swing right and the subject follows the turn with their eyes."
+  },
+  {
+    "id": 52,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Side Step and Reach",
+    "prompt": "Shoot a knee-up portrait on a 35mm lens at f/5.6 at waist height. Put the face on the upper-left third and let one arm reach diagonally toward the right edge as the subject steps sideways and follows their hand with their gaze."
+  },
+  {
+    "id": 53,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Seated Perch",
+    "prompt": "Use a 50mm lens at f/4 from just below the seated subject's eye height for an above-knee portrait. Frame the thighs diagonally as the subject perches on a ledge, one hand braced beside the hip and eyes turned left."
+  },
+  {
+    "id": 54,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Still Stance, Low View",
+    "prompt": "Shoot a centered cowboy portrait on a 45mm lens at f/5.6 from mid-thigh height. Keep the torso upright above a staggered stance and have the subject gaze slightly above the camera."
+  },
+  {
+    "id": 55,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Step Down toward Camera",
+    "prompt": "Use a 35mm lens at f/5.6 for a knee-up portrait from below the subject on the stairs. Let the leading thigh advance into the lower-left corner and have the subject watch the next tread."
+  },
+  {
+    "id": 56,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Torso Twist by a Post",
+    "prompt": "Shoot a three-quarter cowboy portrait on a 50mm lens at f/4 from hip height. Place the post at the left margin and the subject on the right third, with hips turned away and eyes turned back."
+  },
+  {
+    "id": 57,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Long Stride across the Frame",
+    "prompt": "Shoot a knee-up stride at waist height with a 35mm lens at f/5.6. Have the subject travel from right to left, leaving space ahead of their face and catching the arms swinging in opposition."
+  },
+  {
+    "id": 58,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Shoulder Drop in Motion",
+    "prompt": "Use a 45mm lens at f/3.5 from waist height for an above-knee crop. Keep the torso on the left third as the subject dips the near shoulder mid-step and looks sideways into the empty right half."
+  },
+  {
+    "id": 59,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Backlit Railing Profile",
+    "prompt": "Shoot a knee-up side view on a 50mm lens at f/4 from just below hip height. Use the rail as a horizontal line across the lower frame and catch the subject looking down its length with one hand loosely on it."
+  },
+  {
+    "id": 60,
+    "category": "Cowboy & Knee-up Dynamic Poses",
+    "title": "Pause between Steps",
+    "prompt": "Shoot a near-frontal cowboy portrait on a 40mm lens at f/5.6 from hip height. Set the body slightly right of center, front thigh bearing weight while the opposite hand hangs loose, and catch a glance toward the left edge."
+  },
+  {
+    "id": 61,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Centered Doorway",
+    "prompt": "Use a 28mm lens at f/8 from waist height for a centered full-body portrait inside a doorway. Align the jambs around the subject, who stands with feet together and looks straight at the lens."
+  },
+  {
+    "id": 62,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Small Figure, Broad Wall",
+    "prompt": "Shoot a head-to-toe portrait on a 35mm lens at f/8 from chest height. Position the subject in the lower-right third against a broad wall, weight on one leg and eyes directed into the negative space."
+  },
+  {
+    "id": 63,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Arcade Vanishing Point",
+    "prompt": "At waist height, use a 24mm lens at f/8 for a full-body view down a row of arches. Keep the subject on the central axis with both feet visible as they walk forward and look along the passage."
+  },
+  {
+    "id": 64,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Window Bay Frame",
+    "prompt": "Shoot a full-body editorial at waist height on a 32mm lens at f/5.6. Fit the subject inside the window bay's outline as they stand in profile and turn their face toward the source of light."
+  },
+  {
+    "id": 65,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Concrete Diagonal",
+    "prompt": "Shoot a head-to-toe portrait on a 28mm lens at f/8 from hip height. Let a sloping architectural edge rise behind the subject, who stands on the lower-left third and looks up along that diagonal."
+  },
+  {
+    "id": 66,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Between Two Columns",
+    "prompt": "Use a 35mm lens at f/8 from chest height for a full-body portrait. Let the columns bracket an off-center subject, one ankle crossed over the other as their gaze moves past the nearer column."
+  },
+  {
+    "id": 67,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Stairwell Grid",
+    "prompt": "Shoot a full-body portrait from a high landing on a 24mm lens at f/8. Set the subject diagonally across the rectangular stairwell grid as they pause on a tread and look up at the camera."
+  },
+  {
+    "id": 68,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Quiet Threshold Profile",
+    "prompt": "Use a 35mm lens at f/5.6 from waist height for a full-length profile. Center the doorway but place the subject against its left jamb, with hands at their sides and eyes looking across the opening."
+  },
+  {
+    "id": 69,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Corridor Offset",
+    "prompt": "Shoot full-length from chest height on a 28mm lens at f/8. Keep the corridor's vanishing point centered and put the subject on the right third, paused with a foot turned toward the center."
+  },
+  {
+    "id": 70,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Under a Tall Arch",
+    "prompt": "Shoot a full-body portrait on a 24mm lens at f/8 from low waist height. Keep the camera level to hold the verticals and let the arch dominate the upper frame as the subject looks left with arms relaxed."
+  },
+  {
+    "id": 71,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Long Wall Walk",
+    "prompt": "Use a 35mm lens at f/5.6 from hip height for a full-body profile. Set the subject near the right third in mid-stride toward the left, letting the wall extend across the space ahead."
+  },
+  {
+    "id": 72,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Framed through an Arch",
+    "prompt": "Shoot full-length through a foreground arch at waist height on a 28mm lens at f/8. Let the darker arch outline the brighter interior while the subject stands slightly left of center and looks back toward the opening."
+  },
+  {
+    "id": 73,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Landing and Balustrade",
+    "prompt": "Shoot a full-body editorial on a 32mm lens at f/8 from an adjacent landing at subject chest height. Follow the balustrade's line to the subject, who rests one hand on it and looks across the stairwell."
+  },
+  {
+    "id": 74,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Negative Space Above",
+    "prompt": "Shoot a full-body portrait with a 28mm lens at f/8 at hip height. Place the head-to-toe figure low and centered beneath a tall facade, shoulders square and gaze directed just above the lens."
+  },
+  {
+    "id": 75,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Side-lit Recess",
+    "prompt": "Use a 35mm lens at f/5.6 at waist height for a head-to-toe portrait inside a deep recess. Place the subject near the light-facing edge, with one heel raised and face turned toward the opening."
+  },
+  {
+    "id": 76,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Corner Lines Meet",
+    "prompt": "Shoot a full-body portrait from waist height on a 24mm lens at f/8. Set the subject beside the vertical line where two walls meet, hands loose at their sides and eyes turned into the brighter half."
+  },
+  {
+    "id": 77,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Across the Courtyard",
+    "prompt": "Use a 35mm lens at f/8 from a slightly elevated position for a small, full-body figure in a wide courtyard view. Let paving seams converge toward the subject as they walk away and look back across one shoulder."
+  },
+  {
+    "id": 78,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Frame within Repeating Frames",
+    "prompt": "Shoot head to toe with a 28mm lens at f/8 from waist height. Align two successive doorways around the subject, who stands in the farther opening with a slight shoulder turn and direct gaze."
+  },
+  {
+    "id": 79,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Seated on the Plinth",
+    "prompt": "Use a 35mm lens at f/5.6 at seated shoulder height for a full-body portrait including both shoes. Place the seated figure on the left third and let the top edge of the plinth lead right as they look into that space."
+  },
+  {
+    "id": 80,
+    "category": "Full-Body & Architectural Framing",
+    "title": "Facade at the Edge",
+    "prompt": "Shoot at chest height on a 24mm lens at f/8 for a full-length environmental portrait. Hold the subject near the left third against a vertical facade edge, leaving the open right half clear as they turn toward it."
+  },
+  {
+    "id": 81,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Clockwise Dutch Bust",
+    "prompt": "Roll the camera clockwise for a chest-up portrait on a 50mm lens at f/2.8 at eye level. Let the shoulders counter the sloping background as the subject holds the lens with a steady gaze."
+  },
+  {
+    "id": 82,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Counterclockwise Corridor",
+    "prompt": "Shoot a full-body corridor portrait from waist height with a 28mm lens at f/5.6 and a counterclockwise Dutch tilt. Put the subject uphill in the frame, striding toward the open lower corner."
+  },
+  {
+    "id": 83,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Flat-lay Portrait",
+    "prompt": "Point a 35mm lens at f/5.6 straight down for a full-body portrait of the subject lying face up. Align the body with a frame diagonal, bend one elbow outward and keep the eyes looking up into the lens."
+  },
+  {
+    "id": 84,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Bird's-eye Turning Point",
+    "prompt": "Shoot straight down on a 28mm lens at f/8 for a full-body environmental view. Position the subject where two floor lines intersect as they stop mid-step and turn their face upward."
+  },
+  {
+    "id": 85,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Floor-level Stride",
+    "prompt": "Shoot a wide full-body frame on a 20mm lens at f/5.6 from floor level, angled steeply upward. Keep the walking subject near the center to contain edge stretch and catch their gaze fixed beyond the camera."
+  },
+  {
+    "id": 86,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "From Beneath the Landing",
+    "prompt": "Use a 24mm lens at f/8 from the lower floor, angling hard upward for a wide shot that includes the subject head to toe on an open landing. Let the staircase cut diagonally across the frame as the subject looks over the side."
+  },
+  {
+    "id": 87,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Through Window Reflections",
+    "prompt": "Use an 85mm lens at f/2.8 at eye level for a waist-up shot through reflective glass. Keep the subject on the right third in a clear patch as they turn to look out, with soft reflections across the left edge."
+  },
+  {
+    "id": 88,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Past a Blurred Shoulder",
+    "prompt": "Shoot an eye-level medium close-up on a 105mm lens at f/2.8. Use an out-of-focus shoulder at the left edge as foreground and place the subject on the opposite third glancing toward it."
+  },
+  {
+    "id": 89,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Through a Narrow Gap",
+    "prompt": "Use a 100mm lens at f/2.8 at shoulder height for a candid waist-up shot through a narrow gap between two nearby surfaces. Align the face with the clear vertical opening just off center as the subject looks away."
+  },
+  {
+    "id": 90,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Low Dutch Cowboy",
+    "prompt": "Shoot a knee-up cowboy frame from below hip height on a 32mm lens at f/4 with a slight clockwise roll. Set the subject on the rising diagonal as they step forward and look toward the high corner."
+  },
+  {
+    "id": 91,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Near-lens Light Bokeh",
+    "prompt": "Shoot a head-and-shoulders portrait at eye level on an 85mm lens at f/1.8. Keep the subject at the right third looking across the frame, with near-lens points of light blurring along the left and bottom edges."
+  },
+  {
+    "id": 92,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Bird's-eye Seat",
+    "prompt": "Shoot directly overhead on a 35mm lens at f/5.6 for a medium view of a seated subject from crown to lap. Position the lap diagonally across the lower frame and catch the subject looking up, palms relaxed on their thighs."
+  },
+  {
+    "id": 93,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "View through Balusters",
+    "prompt": "Use a 70mm lens at f/2.8 from below the subject's waist for a knee-up shot through nearby balusters. Place the face in a clear gap while soft vertical foreground bands flank the subject, who looks down past the camera."
+  },
+  {
+    "id": 94,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Near-floor Crouch",
+    "prompt": "Set a 24mm lens at f/4 near floor height, aimed up for a wide, full-body view of a crouching subject. Place their near knee along the lower third and catch their sideways gaze into the unoccupied half."
+  },
+  {
+    "id": 95,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "High Oblique Street Still",
+    "prompt": "Shoot a full-body view steeply downward from a balcony with a 50mm lens at f/5.6. Place the subject low in the frame where paving lines converge as they pause and glance back along their path."
+  },
+  {
+    "id": 96,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Off-axis through Foliage",
+    "prompt": "Use a 135mm lens at f/2.8 from slightly above the subject's eye level for a compressed chest-up candid. Keep the face to the left of center in a gap between soft foreground leaves while the subject looks off to the right."
+  },
+  {
+    "id": 97,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Mirror-edge Fragment",
+    "prompt": "Use a 50mm lens at f/4 from an oblique angle at chest height for a bust shot reflected in a mirror. Keep the reflection on the right third and frame it with the mirror edge as the subject looks toward their reflected eyes."
+  },
+  {
+    "id": 98,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Through a Moving Crowd",
+    "prompt": "Shoot a knee-up candid on a 105mm lens at f/2.8 from shoulder height. Place the subject sharply in the center gap between soft passing figures as they turn their chin toward the side of the frame."
+  },
+  {
+    "id": 99,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Skewed Ground-level Profile",
+    "prompt": "With a 28mm lens at f/5.6, shoot from near ground level and roll the camera slightly for a wide, full-body profile. Leave room along the rising diagonal as the subject takes a sideways step and looks in that direction."
+  },
+  {
+    "id": 100,
+    "category": "Cinematic & Avant-Garde Angles",
+    "title": "Overhead Stair Spiral",
+    "prompt": "Shoot straight down with a 24mm lens at f/8 for a wide view that keeps the subject's entire seated pose in frame. Place them on a landing at the edge of a turning staircase, legs extended along the tread and face turned upward."
+  }
+]
